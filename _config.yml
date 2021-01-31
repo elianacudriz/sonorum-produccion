@@ -13,12 +13,13 @@
 
 theme: jekyll-agency
 
-url    : "https://johnarmasq.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/jubilant-octo-giggle" # the subpath of your site, e.g. /blog
+url    : "https://sonorum.co/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
 
-title      : Sonorum
+title      : Sonorum | Academia de música online
+name       : Sonorum
 email      : sonorumacademy@gmail.com #this is also the email contact forms will go to
-description: "Clases de música online"
+description: "Inscríbete y empieza a disfrutar de una experiencia musical maravillosa."
 author     : Jonathan Armas-Eliana Cudriz
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
@@ -29,7 +30,7 @@ whatsapp: https://api.whatsapp.com/send/?phone=573053491660&text=¡Hola!+Estoy+i
 permalink: /:title/
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-CE2BY5YXEJ
 
 collections:
   portfolio:

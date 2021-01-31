@@ -1,12 +1,11 @@
 header:
-    title: ""
-    text: ¿Quieres aprender a cantar o a tocar un instrumento?
+    text: "Toca, juega, canta y disfruta aprendiendo"
     button: Estudia aquí
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Servicios"
-    text: "Aprende de los mejores"
+    text: "Aprende con los mejores"
     section: services
     list:
       - title: "Clases personalizadas"
@@ -82,7 +81,6 @@ portfolio:
 team:
     title: "NUESTRO EQUIPO"
     text: "Un personal capacitado y calificado para hacerte crecer musicalmente."
-    subtext: ""
     section: team
     people:
       - name: "Alix Romero"
@@ -119,7 +117,7 @@ team:
           - url: https://www.linkedin.com/in/lily-quinto
             icon: fab fa-linkedin-in
       - name: "Eliana Cudriz"
-        role: "Dpto. Financiero"
+        role: "Dpto. Financiero y administrativo"
         image: assets/img/team/eli.jpg
         alt: Contadora Eliana Cudriz foto de perfil
         social:
@@ -140,10 +138,10 @@ team:
       #     - url: www.linkedin.com/in/jonathan-armas
       #       icon: fab fa-linkedin-in
 
-contact:
-    title: "Contactenos"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
+# contact:
+#     title: "Contactenos"
+#     text: "Lorem ipsum or call 123456789"
+#     section: contact
 
 footer:
     legal: "Privacy Policy"
