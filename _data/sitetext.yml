@@ -1,7 +1,7 @@
 header:
     text: "Toca, juega, canta y disfruta aprendiendo"
     button: Estudia aquí
-    buttonlink: "#services" # "#{section}" or "URL/page link"
+    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
     title: "Servicios"
